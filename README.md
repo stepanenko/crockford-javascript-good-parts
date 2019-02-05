@@ -1,5 +1,5 @@
 # JavaScript Good Parts
-## by Douglas Crockford
+### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
 Урок 16. Statements 00:05:36
