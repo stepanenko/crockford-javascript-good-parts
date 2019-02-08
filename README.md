@@ -2,10 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 17. Functions 00:07:39
-
-Урок 18. Function Best Practices 00:11:16
-
 Урок 19. Closure 00:06:36
 
 Урок 20. Closure Examples 00:13:49
