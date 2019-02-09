@@ -2,12 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 19. Closure 00:06:36
-
-Урок 20. Closure Examples 00:13:49
-
-Урок 21. Pseudoclassical Inheritance 00:10:02
-
 Урок 22. Module Pattern 00:08:00
 
 Урок 23. Pseudoclassical Inheritance vs. Functional Inheritance 00:06:35
