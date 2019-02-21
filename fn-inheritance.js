@@ -24,3 +24,5 @@ function hoozit(id) {
 }
 
 console.log(hoozit(5).toString());  // gizmo 5
+
+// In case we have millions of objects its probably better to use prototypal (pseudoclassical) inheritance
