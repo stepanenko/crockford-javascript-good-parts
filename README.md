@@ -2,8 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 23. Pseudoclassical Inheritance vs. Functional Inheritance 00:06:35
-
 Урок 24. The History of HTML 00:09:11
 
 Урок 25. How JavaScript Saved HTML 00:10:18
