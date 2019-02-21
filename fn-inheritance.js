@@ -17,12 +17,14 @@ function hoozit(id) {
   var that = gizmo(id);
 
   that.test = function (testid) {
-    return testid === this.id;
+    // return testid === this.id;
+    return testid === id;
   };
 
   return that;
 }
 
 console.log(hoozit(5).toString());  // gizmo 5
+console.log(hoozit(5).test(5));  // true
 
 // In case we have millions of objects its probably better to use prototypal (pseudoclassical) inheritance
