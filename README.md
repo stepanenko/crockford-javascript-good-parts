@@ -2,8 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 22. Module Pattern 00:08:00
-
 Урок 23. Pseudoclassical Inheritance vs. Functional Inheritance 00:06:35
 
 Урок 24. The History of HTML 00:09:11
