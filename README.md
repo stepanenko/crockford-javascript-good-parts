@@ -2,12 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 24. The History of HTML 00:09:11
-
-Урок 25. How JavaScript Saved HTML 00:10:18
-
-Урок 26. The Browser 00:04:40
-
 Урок 27. The Script Tag 00:07:51
 
 Урок 28. Document Tree Structure 00:05:38
