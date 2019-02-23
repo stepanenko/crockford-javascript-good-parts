@@ -2,18 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 30. Events 00:06:42
-
-Урок 31. DOM Performance 00:04:46
-
-Урок 32. Division of Labor 00:06:18
-
-Урок 33. A Better JavaScript 00:04:46
-
-Урок 34. New Syntax 00:05:51
-
-Урок 35. New Methods 00:10:16
-
 Урок 36. Meta Object API 00:07:40
 
 Урок 37. Strict Mode 00:08:39
