@@ -2,12 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 27. The Script Tag 00:07:51
-
-Урок 28. Document Tree Structure 00:05:38
-
-Урок 29. Retrieving Nodes 00:09:31
-
 Урок 30. Events 00:06:42
 
 Урок 31. DOM Performance 00:04:46
