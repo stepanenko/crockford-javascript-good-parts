@@ -2,40 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 19. Closure 00:06:36
-
-Урок 20. Closure Examples 00:13:49
-
-Урок 21. Pseudoclassical Inheritance 00:10:02
-
-Урок 22. Module Pattern 00:08:00
-
-Урок 23. Pseudoclassical Inheritance vs. Functional Inheritance 00:06:35
-
-Урок 24. The History of HTML 00:09:11
-
-Урок 25. How JavaScript Saved HTML 00:10:18
-
-Урок 26. The Browser 00:04:40
-
-Урок 27. The Script Tag 00:07:51
-
-Урок 28. Document Tree Structure 00:05:38
-
-Урок 29. Retrieving Nodes 00:09:31
-
-Урок 30. Events 00:06:42
-
-Урок 31. DOM Performance 00:04:46
-
-Урок 32. Division of Labor 00:06:18
-
-Урок 33. A Better JavaScript 00:04:46
-
-Урок 34. New Syntax 00:05:51
-
-Урок 35. New Methods 00:10:16
-
 Урок 36. Meta Object API 00:07:40
 
 Урок 37. Strict Mode 00:08:39
