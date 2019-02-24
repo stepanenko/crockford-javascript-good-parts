@@ -2,8 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 37. Strict Mode 00:08:39
-
 Урок 38. Function Challenge 1 00:09:39
 
 Урок 39. Function Challenge 2 00:06:37
