@@ -2,8 +2,6 @@
 ### by Douglas Crockford
 https://coursehunters.net/course/fm-good-js-and-web
 
-Урок 36. Meta Object API 00:07:40
-
 Урок 37. Strict Mode 00:08:39
 
 Урок 38. Function Challenge 1 00:09:39
